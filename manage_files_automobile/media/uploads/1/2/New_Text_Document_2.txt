@@ -1,0 +1,6 @@
+
+rvburblzbbyoxkxl
+
+103.77.107.142 
+
+ssh -p 22 -N -D 4002 Youzar-vpnjantit.com@212.129.20.7
